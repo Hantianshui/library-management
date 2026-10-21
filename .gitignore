@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.trae/
+*.log
+.DS_Store
+api/library-api
+api/coverage.out

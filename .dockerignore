@@ -1,0 +1,7 @@
+node_modules
+.git
+.trae
+.env
+api/library-api
+api/coverage.out
+npm-debug.log
